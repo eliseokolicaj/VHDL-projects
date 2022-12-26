@@ -76,3 +76,4 @@ dkms.conf
 *.vdb
 *.xpr
 *.prj
+*.c
