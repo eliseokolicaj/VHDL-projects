@@ -77,3 +77,4 @@ dkms.conf
 *.xpr
 *.prj
 *.c
+*.wdm
