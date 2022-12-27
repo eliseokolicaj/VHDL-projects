@@ -78,3 +78,10 @@ dkms.conf
 *.prj
 *.c
 *.wdm
+*.rst
+Counter/Counter.runs/synth_1/__synthesis_is_complete__
+*.dcp
+*.vds
+*.rpt
+*.js
+*.sh
