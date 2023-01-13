@@ -84,6 +84,7 @@ dkms.conf
 *.rpt
 *.js
 *.sh
-*C:\Users\User\Desktop\VHDL-projects\UART_IO\UART_IO.cache
-*C:\Users\User\Desktop\VHDL-projects\UART_IO\UART_IO.runs
-*C:\Users\User\Desktop\VHDL-projects\UART_IO\UART_IO.sdk
+UART_IO.chace/
+UART_IO.sdk/
+UART_IO.runs/
+UART_IO.hw/
