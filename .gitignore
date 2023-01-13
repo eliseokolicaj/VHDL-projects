@@ -89,4 +89,14 @@ UART_demo.hw/
 UART_demo.ip_user_files/
 UART_demo.runs/
 UART_demo.sim/
-
+.metadata/
+Hello_World_bsp/
+RemoteSystemsTempFiles/
+UART_demo_wrapper_hw_platform_0/
+webtalk/
+hw_handoff/
+ip/
+ipshared/
+sim/
+synth/
+ui/
