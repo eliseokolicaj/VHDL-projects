@@ -84,7 +84,9 @@ dkms.conf
 *.rpt
 *.js
 *.sh
-UART_IO.chace/
-UART_IO.sdk/
-UART_IO.runs/
-UART_IO.hw/
+UART_demo.cache/
+UART_demo.hw/
+UART_demo.ip_user_files/
+UART_demo.runs/
+UART_demo.sim/
+
