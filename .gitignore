@@ -76,7 +76,6 @@ dkms.conf
 *.vdb
 *.xpr
 *.prj
-*.c
 *.wdm
 *.rst
 *.dcp
