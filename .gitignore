@@ -121,3 +121,5 @@ UART_IO.hw/
 UART_IO.ip_user_files/
 UART_IO.runs/
 UART_IO.sim/
+UART_IO_wrapper_hw_platform_0/
+UART_IO_bsp/
