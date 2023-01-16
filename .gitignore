@@ -123,3 +123,7 @@ UART_IO.runs/
 UART_IO.sim/
 UART_IO_wrapper_hw_platform_0/
 UART_IO_bsp/
+UART_IO/UART_IO.sdk/UART_IO/.cproject
+UART_IO/UART_IO.sdk/UART_IO/.project
+UART_IO/UART_IO.sdk/UART_IO/Debug/makefile
+UART_IO/UART_IO.sdk/UART_IO/src/platform.c
