@@ -116,3 +116,8 @@ UART_demo/UART_demo.sdk/Hello_World/src/platform.c
 *.bxml
 *.xdc
 *.str
+UART_IO.cache/
+UART_IO.hw/
+UART_IO.ip_user_files/
+UART_IO.runs/
+UART_IO.sim/
