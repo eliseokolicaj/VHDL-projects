@@ -127,3 +127,11 @@ UART_IO/UART_IO.sdk/UART_IO/.cproject
 UART_IO/UART_IO.sdk/UART_IO/.project
 UART_IO/UART_IO.sdk/UART_IO/Debug/makefile
 UART_IO/UART_IO.sdk/UART_IO/src/platform.c
+
+Analog_Temp_Sensor.cache/
+Analog_Temp_Sensor.hw/
+Analog_Temp_Sensor.ip_user_files/
+Analog_Temp_Sensor.runs/
+Analog_Temp_Sensor.sim/
+Analog_Temp_Sensor_wrapper_hw_platform_0/
+Analog_Temp_Sensor_bsp/
