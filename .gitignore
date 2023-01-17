@@ -135,3 +135,6 @@ Analog_Temp_Sensor.runs/
 Analog_Temp_Sensor.sim/
 temp_sensor_wrapper_hw_platform_0/
 Temp_Sensor_bsp/
+
+*.cproject
+*.project
