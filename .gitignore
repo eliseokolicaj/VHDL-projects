@@ -138,3 +138,5 @@ Temp_Sensor_bsp/
 
 *.cproject
 *.project
+Analog_Temp_Sensor/Analog_Temp_Sensor.sdk/Temp_Sensor/src/xiomodule_selftest_example.c
+Analog_Temp_Sensor/Analog_Temp_Sensor.sdk/Temp_Sensor/Debug/makefile
