@@ -141,3 +141,4 @@ Temp_Sensor_bsp/
 Analog_Temp_Sensor/Analog_Temp_Sensor.sdk/Temp_Sensor/src/xiomodule_selftest_example.c
 Analog_Temp_Sensor/Analog_Temp_Sensor.sdk/Temp_Sensor/Debug/makefile
 Bit_comparator/Bit_comparator.sim/sim_1/behav/xsim/xsim.dir/bit_comp_behav/obj/xsim_1.c
+Full_adder/Full_adder.sim/sim_1/behav/xsim/xsim.dir/full_adder_behav/obj/xsim_1.c
